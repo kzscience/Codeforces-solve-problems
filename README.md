@@ -1,3 +1,2 @@
 # Codeforces-solve-problems
-Решение задач codeforces на С++ / Solve Codeforces Problems in C ++
-Данный репозиторий содержить решение задач из codeforces. 
+Данный репозиторий содержить решение задач из codeforces / This repository contains solutions to problems from codeforces
