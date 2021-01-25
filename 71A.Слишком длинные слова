@@ -51,7 +51,6 @@ using std::endl;
  
 int main()
 {
-    setlocale(LC_ALL, "ru");
     short n;
     cin >> n;
     string s;
