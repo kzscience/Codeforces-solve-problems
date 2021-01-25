@@ -1,4 +1,4 @@
-/* №4A. Арбуз - (https://codeforces.com/problemset/problem/4/A)
+/* 4A. Арбуз - (https://codeforces.com/problemset/problem/4/A)
 1) ограничение по времени на тест 1 second
 2) ограничение по памяти на тест64 megabytes
 3) вводстандартный ввод
@@ -37,7 +37,6 @@ using std::cout;
  
 int main()
 {
-    setlocale(LC_ALL, "ru");
    int  w;
     cin >> w;
     if (w % 2 == 0  && w>2) {
