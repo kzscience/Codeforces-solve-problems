@@ -29,12 +29,12 @@ wjmzbmr
 CHAT WITH HER!
 
 
-Выходные данные:
+Входные данные:
 xiaodao
 Выходные данные:
 IGNORE HIM!
 
-Выходные данные:
+Входные данные:
 sevenkplus
 Выходные данные:
 CHAT WITH HER!
