@@ -3,4 +3,4 @@
 Данный репозиторий содержить решение задач из codeforces.
 
 [ENG]
-Solve codeforces problems in C++.
+This repository contains solutions to problems from codeforces.
